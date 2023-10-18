@@ -8,7 +8,7 @@ Hello! I'm S. M. Asif Ibne Hayat Safkat, a passionate web developer with a love 
 
 - JavaScript
 - React
-- Netlify, Vercel
+- Firebase, Netlify, Vercel
 
 ## 🌱 Current Learning Goals
 
